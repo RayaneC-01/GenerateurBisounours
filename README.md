@@ -63,4 +63,4 @@ Have fun creating magical and joyful names for your Care Bears characters!
 
 ## Credits
 
-This generator was lovingly created by [Your Name]. You can find the source code on [GitHub](link-to-github-repo).
+This generator was lovingly created by [Your Name]. You can find the source code on [GitHub](https://github.com/RayaneC-01/GenerateurBisounours).
