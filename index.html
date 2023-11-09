@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Un générateur de noms Bisounours pour apporter de la joie à votre journée."
+    />
+    <meta
+      name="keywords"
+      content="noms Bisounours, générateur de noms, Bisounours"
+    />
+    <meta name="author" content="Rayane" />
+    <title>Générateur de Noms Bisounours</title>
+    <link rel="stylesheet" href="./style/style.css" media="all" />
+    <link rel="icon" href="favicon.png" type="image/png" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Générateur de Noms Bisounours</h1>
+      </header>
+      <main>
+        <section class="generator">
+          <label for="nameCount">Nombre de noms à générer : </label>
+          <input type="number" id="nameCount" min="1" max="10" value="1" />
+          <button id="generateButton" aria-label="Générer des noms Bisounours">
+            Générer
+          </button>
+        </section>
+        <section class="output">
+          <h2>Noms Bisounours Générés :</h2>
+          <ul id="nameList" aria-live="polite"></ul>
+        </section>
+        <section class="description">
+          <h2>Description des Personnages :</h2>
+          <div id="characterDescription" aria-live="assertive"></div>
+        </section>
+      </main>
+    </div>
+    <script src="Scripts/script.js" defer></script>
+  </body>
+</html>
