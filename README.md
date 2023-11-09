@@ -4,7 +4,7 @@ Ce générateur de noms de personnages Bisounours vous permet de créer des noms
 
 ## Comment Utiliser le Générateur
 
-1. Ouvrez le générateur en utilisant le lien suivant : [Générateur de Noms Bisounours](lien-du-generateur).
+1. Ouvrez le générateur en utilisant le lien suivant : [Générateur de Noms Bisounours](https://github.com/RayaneC-01/GenerateurBisounours).
 
 2. Sélectionnez la langue dans laquelle vous souhaitez générer les noms : français ou anglais.
 
@@ -31,7 +31,7 @@ This Care Bears character name generator allows you to create joyful and fun nam
 
 ## How to Use the Generator
 
-1. Open the generator using the following link: [Care Bears Name Generator](generator-link).
+1. Open the generator using the following link: [Care Bears Name Generator](https://github.com/RayaneC-01/GenerateurBisounours).
 
 2. Select the language in which you want to generate names: French or English.
 
